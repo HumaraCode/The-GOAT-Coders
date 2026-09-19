@@ -1,7 +1,7 @@
 ﻿# The-GOAT-Coders
 
 Download required Python libraries:
-pip install streamlit pandas numpy scipy folium streamlit-folium pulp
+pip install streamlit pandas numpy scipy folium streamlit-folium pulp seaborn geopy
 
 **To run code in terminal**
 
