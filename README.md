@@ -23,3 +23,8 @@ the product!!!
 
 The drop down QnA allows user to easily
 be able to use our mode
+
+
+
+Sources/AI/Software used for building this project:
+Canva, Google Gemini, Kaggle (for analysing/referring actual databases), Python Libraries, Visual Studio Code, Git, GitHub
