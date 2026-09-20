@@ -1,19 +1,25 @@
 ﻿# The-GOAT-Coders
 
-Download required Python libraries:
+**Steps to open LOCAGOAT:**
+
+1. Open our GitHub Repository named The-GOAT-Coders
+https://github.com/HumaraCode/The-GOAT-Coders
+
+2. Open Visual Studio Code and create an empty Python file and rename it (for eg: new.py)
+
+3. Open Terminal. There, download the required Python libraries using the following command:
 pip install streamlit pandas numpy scipy folium streamlit-folium pulp seaborn geopy streamlit-authenticator plotly
 
-**To run code in terminal**
+4. Copy paste the code in everythingfinal.py
+file in the given Repository
 
-Step 1: 
-Create an empty Python file and rename it (for eg: new.py)
+5. Run the following command in terminal
+python -m streamlit run new.py (Replace
+new.py with loca
 
-Step 2: 
-Copy paste the code in Project.py file in this Repository
+6. Sign up a new account in the program,
+then sign in into your account and Enjoy
+the product!!!
 
-Step 3:
-Run the following command in terminal
-python -m streamlit run new.py
-(Replace new.py with local file name)
-
-
+The drop down QnA allows user to easily
+be able to use our mode
