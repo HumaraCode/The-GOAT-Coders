@@ -10,7 +10,7 @@ https://github.com/HumaraCode/The-GOAT-Coders
 3. Open Terminal. There, download the required Python libraries using the following command:
 pip install streamlit pandas numpy scipy folium streamlit-folium pulp seaborn geopy streamlit-authenticator plotly
 
-4. Copy paste the code in everythingfinal.py
+4. Copy paste the code from everythingfinal.py
 file in the given Repository
 
 5. Run the following command in terminal
