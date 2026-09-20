@@ -11,7 +11,7 @@ https://github.com/HumaraCode/The-GOAT-Coders
 pip install streamlit pandas numpy scipy folium streamlit-folium pulp seaborn geopy streamlit-authenticator plotly
 
 4. Copy paste the code from everythingfinal.py
-file in the given Repository
+file in the given Repository into Visual Studio Code
 
 5. Run the following command in terminal
 python -m streamlit run new.py (Replace
